@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋, I'm Shreya  
 
-<!--
-**Shreya2005-2005/Shreya2005-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
+Hey there! I'm Shreya, an aspiring developer and open‑source contributor.  
+I love building apps, exploring data, and applying machine learning to solve real‑world problems.  
+Currently diving into Android development and safer AI using ML.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Interests & Focus
+- Android App Development (Java/Kotlin + React Native)  
+- Data Science & Machine Learning (Pandas, NumPy, scikit‑learn)  
+- Open Source Contributions  
+- Full‑stack projects with React + SQL  
+- Personal projects that combine safety + AI  
+
+---
+
+## 📚 Currently Learning
+- 📱 Android App Development  
+- 🤖 Safer AI using ML (risk analysis, clustering, safer route prediction)  
+- 🌐 Expanding skills in full‑stack development  
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/yourhandle)  
+
+---
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)  
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql)  
+![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas)  
+![NumPy](https://img.shields.io/badge/NumPy-lightblue?style=for-the-badge&logo=numpy)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-red?style=for-the-badge&logo=scikit-learn)  
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)  
+
+---
+
