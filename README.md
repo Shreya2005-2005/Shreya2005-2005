@@ -23,12 +23,7 @@ Currently diving into Android development and safer AI using ML.
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/yourhandle)  
 
----
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
