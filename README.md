@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shreya  
+# Hi there , I'm Shreya  
 
 ## 🧠 About Me
 Hey there! I'm Shreya, an aspiring developer and open‑source contributor.  
