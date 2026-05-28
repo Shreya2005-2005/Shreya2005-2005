@@ -7,7 +7,7 @@ Currently diving into Android development and safer AI using ML.
 
 ---
 
-## 🎯 Interests & Focus
+## 🎯 Interests 
 - Android App Development (Java/Kotlin + React Native)  
 - Data Science & Machine Learning (Pandas, NumPy, scikit‑learn)  
 - Open Source Contributions  
