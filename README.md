@@ -18,7 +18,7 @@ Currently diving into Android development and safer AI using ML.
 
 ## 📚 Currently Learning
 - 📱 Android App Development  
-- 🤖 Safer AI using ML (risk analysis, clustering, safer route prediction)  
+- 🤖 Safer AI using ML (risk analysis, clustering, safer route prediction, k-means)  
 - 🌐 Expanding skills in full‑stack development  
 
 ---
